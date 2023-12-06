@@ -1,2 +1,0 @@
-# Flashcards
-Language Learning Webapp 
